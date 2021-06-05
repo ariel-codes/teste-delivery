@@ -1,0 +1,6 @@
+# Ruby dependencies
+vendor
+
+# Editor configs
+.idea
+.vscode

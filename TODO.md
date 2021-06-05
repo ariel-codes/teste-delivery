@@ -1,0 +1,6 @@
+- [X] Fazer um parse do Payload abaixo.
+- [X] Enviar para uma API REST (https://delivery-center-recruitment-ap.herokuapp.com/), no formato descrito no item Processamento, que fará algumas validações e retornará o resultado.
+- [X] Enviar com o Header 'X-Sent' com a data/hora atual no formato: 09h25 - 24/10/19.
+- [X] Registrar os dados do pedido em um banco de dados
+- [X] Deixar o código disponível em algum repositório público (github, bitbucket, etc...)
+- [X] Enviar o link do repositório para o e-mail testes.tech@deliverycenter.com
